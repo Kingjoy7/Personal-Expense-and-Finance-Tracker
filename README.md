@@ -1,4 +1,4 @@
-# Expense Tracker — DB Demo
+# Personal Expense and Savings Tracker
 
 ## Prerequisites
 - Python 3.8+
